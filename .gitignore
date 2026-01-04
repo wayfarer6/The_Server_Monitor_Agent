@@ -29,4 +29,4 @@ go.work
 Thumbs.db
 
 # Build output directory  (not needed)
-bin/
+bin/ 
